@@ -1,0 +1,71 @@
+{
+  "itemId" : "_x8T3wLUBEemNDs0E51zBKw",
+  "contextList" : [ {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_INOFVQKREe2-icQr7yKshg",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_INOFVgKREe2-icQr7yKshg",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_INOFVwKREe2-icQr7yKshg",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_INOFWAKREe2-icQr7yKshg",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_INOFWQKREe2-icQr7yKshg",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_INOFWgKREe2-icQr7yKshg",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_INOFWwKREe2-icQr7yKshg",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_INOFXAKREe2-icQr7yKshg",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_INOFXQKREe2-icQr7yKshg",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_INOFXgKREe2-icQr7yKshg",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_INOFXwKREe2-icQr7yKshg",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_INOFYAKREe2-icQr7yKshg",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_INOFYQKREe2-icQr7yKshg",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_INOFYgKREe2-icQr7yKshg",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_INOFYwKREe2-icQr7yKshg",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_INOFZAKREe2-icQr7yKshg",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_INOFZQKREe2-icQr7yKshg",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_INOFZgKREe2-icQr7yKshg",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_INOFZwKREe2-icQr7yKshg",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_u9egYlwWEe210Ilqd9-3nw",
+      "name" : "TALEND_PATH_FILE_MARGINI_PV"
+    }, {
+      "id" : "__p8oQlwXEe210Ilqd9-3nw",
+      "name" : "TALEND_FILE_NAME_MARGINI_PV"
+    } ]
+  } ]
+}
